@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CS.12.01-PSET.1-Counting-Android</string>
+    <string name="mostCommonDisplayText">The most common word in the text file “TEXT_FILE” is “WORD” with “OCCURRENCES”.</string>
+    <string name="top5DisplayText">The top five most common words in the text file “TEXT_FILE” are </string>
+    <string-array name="filesArray">
+        <item>textOne.txt</item>
+        <item>textTwo.txt</item>
+        <item>Animal+Farm.txt</item>
+        <item>Nineteen+eighty-four.txt</item>
+    </string-array>
+</resources>

@@ -13,6 +13,11 @@ public class Word implements Comparable<Word> {
     count = 1;
   }
 
+  public Word(String word, int count) {
+    this.word = word;
+    this.count = count;
+  }
+
   // This method is used by the contains() method in ArrayList
   // We simply set all word objects with the same string word
   // to be equal.
